@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 
+# 👋 Hi there, I'm Abhishek!
 
-<!--
-**rajxxxxer/rajxxxxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer from India 🇮🇳  
+Working mostly with **React**, **Next.js**, **JavaScript**, and API integrations.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔷 React | Next.js (App Router)
+- 🛠️ Node.js | Express.js
+- 🧩 MongoDB | Firebase
+- 🎨 Tailwind CSS
+- 🔐 Clerk Authentication
+- ☁️ Deployment on Vercel
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajxxxer&show_icons=true&theme=radical)
+
+## 🌱 Current Focus
+- Building full-stack SaaS projects
+- Learning AI integration in web apps
+- Preparing for remote developer roles
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abhishek-raj-5ba8262a3/)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/rajxxxer)
+
+---
+
+⭐️ Star my repositories to support my work!
+
