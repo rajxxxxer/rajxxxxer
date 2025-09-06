@@ -8,7 +8,7 @@ Working mostly with **React**, **Next.js**, **JavaScript**, and API integrations
 
 - 🔷 React | Next.js (App Router)
 - 🛠️ Node.js | Express.js
-- 🧩 MongoDB | Firebase
+- 🧩 sql|MongoDB | Firebase
 - 🎨 Tailwind CSS
 - 🔐 Clerk Authentication
 - ☁️ Deployment on Vercel
